@@ -1,0 +1,11 @@
+file,size_bytes,sha256,acquired_at_utc7,has_text,kcat_count
+2025-06-09-Analysis-Detalis-Python.pdf,831510,7d654e59e80f7f1bfcef43312aa6628d0d6ca8278aeccc962d45d9e66e5afcb1,2025-09-13 12:43:22 +0700,True,"{'LOGSYS': 5, 'BUGTYPE': 10}"
+📑 Baseband Incident Report – 2025-06-09.pdf,607153,4c989484ec2aa69a8f2696a98c3bc29ccf9da56008c4c085bc2774c65ce7600d,2025-09-13 12:43:22 +0700,True,{'BUGTYPE': 3}
+📑 Baseband Incident Report – 2025-06-09 (1).pdf,607153,4c989484ec2aa69a8f2696a98c3bc29ccf9da56008c4c085bc2774c65ce7600d,2025-09-13 12:43:22 +0700,True,{'BUGTYPE': 3}
+📑 Baseband Incident Report – 2025-06-09 (2).pdf,607153,4c989484ec2aa69a8f2696a98c3bc29ccf9da56008c4c085bc2774c65ce7600d,2025-09-13 12:43:22 +0700,True,{'BUGTYPE': 3}
+BB-2025-06-09_evidence_flat.txt,1416,4b96aa2edfd36c00c726053d9fdf36bab48eab862981a062ac089b69735a753e,2025-09-13 12:43:22 +0700,True,{'BUGTYPE': 6}
+2025-06-09-Analysis-Detalis-Python.zip,35686,dc5d7fc1e90e53d2077cdb10e19539581b6fbd974b507c02e7910406575058d3,2025-09-13 12:43:22 +0700,False,{}
+BB-2025-06-09_evidence_pack.zip,1746,fa7eef4226265fb3b74a0a018ab2d84f5f0d002e07e225a4ef062357eb93ba7b,2025-09-13 12:43:22 +0700,False,{}
+bb_2025-06-09_events.zip,886,5b7f8180665ccd9858a7216f64228e53ebacd465970bcc869fb9bf61814dfd3d,2025-09-13 12:43:22 +0700,False,{}
+Report.zip,46370,352e0f5ba0ff5e7131d83a8de4d56444da46ebdde8f9f844b66dc4d2d4d667b7,2025-09-13 12:43:22 +0700,False,{}
+log-bb-2025-06-09-stats.zip,1868,3d96ca49f0b3c6180dd64e6e39a5499ca080a3fbddcfdb99fc618e597095f228,2025-09-13 12:43:22 +0700,False,{}

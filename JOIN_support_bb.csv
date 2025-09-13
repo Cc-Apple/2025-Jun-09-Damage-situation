@@ -1,0 +1,7 @@
+support_time,support_device,support_method,support_content,support_case_id,bb_time,bb_action,bb_cause,bb_modemErr,bb_rat,bb_device,delta_sec,time_score
+2025-06-09 13:42:00+07:00,iP12-Ghost,メール(Appチャット想定),セキュリティーの問題 / アカウントの不正利用,102617382017,2025-06-09 09:40:50+07:00,ST [clm] disconnect,kUserBusy,146,2,iP12mini-1,14470.0,0
+2025-06-09 13:44:00+07:00,iP12-Ghost,チャット,「遠隔操作を受け続けている」と訴え,102617382017,2025-06-09 09:40:50+07:00,ST [clm] disconnect,kUserBusy,146,2,iP12mini-1,14590.0,0
+2025-06-09 13:44:00+07:00,iP12-Ghost,チャット,「遠隔操作を受け続けている」と訴え,102617382017,2025-06-09 22:28:33+07:00,ST [clm] disconnect,kNoError,145,2,iP12mini-1,31473.0,0
+2025-06-09 13:42:00+07:00,iP12-Ghost,メール(Appチャット想定),セキュリティーの問題 / アカウントの不正利用,102617382017,2025-06-09 22:28:33+07:00,ST [clm] disconnect,kNoError,145,2,iP12mini-1,31593.0,0
+2025-06-09 13:44:00+07:00,iP12-Ghost,チャット,「遠隔操作を受け続けている」と訴え,102617382017,2025-06-09 23:50:15+07:00,ST [clm] disconnect,kNoError,145,2,iP12mini-1,36375.0,0
+2025-06-09 13:42:00+07:00,iP12-Ghost,メール(Appチャット想定),セキュリティーの問題 / アカウントの不正利用,102617382017,2025-06-09 23:50:15+07:00,ST [clm] disconnect,kNoError,145,2,iP12mini-1,36495.0,0

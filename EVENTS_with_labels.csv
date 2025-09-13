@@ -1,0 +1,4 @@
+timestamp_local,action,duration,cause,modemErr,rat,raw_line,error_label
+2025-06-09 09:40:50+07:00,ST [clm] disconnect,0,kUserBusy,146,2,9:40:50 +0700 ST [clm] disconnect: duration=0;cause=kUserBusy;modemErr=146;rat=2,"modemErr=146 → 通話中断 (UserBusy 由来, 回線制御)"
+2025-06-09 22:28:33+07:00,ST [clm] disconnect,88,kNoError,145,2,22:28:33 +0700 ST [clm] disconnect: duration=88;cause=kNoError;modemErr=145;rat=2,"modemErr=145 → 通信切断 (NoError扱い, 強制終了の可能性)"
+2025-06-09 23:50:15+07:00,ST [clm] disconnect,6,kNoError,145,2,23:50:15 +0700 ST [clm] disconnect: duration=6;cause=kNoError;modemErr=145;rat=2,"modemErr=145 → 通信切断 (NoError扱い, 強制終了の可能性)"
